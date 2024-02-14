@@ -387,11 +387,6 @@ I'd like to express my gratitude to the following people who helped me with this
 - [OpenAI API](https://openai.com/blog/openai-api)
 - [RapidAPI](https://rapidapi.com/)
 - [Vercel](https://vercel.com/)
-- [JavaScript Mastery](https://www.jsmastery.pro/)
-
-## 📚 References
-
-JSMastery. (2023). [Ultimate Next.js 14 Course | Become a top 1% Next.js 14 developer](https://www.jsmastery.pro/ultimate-next-course). E-Learning.
 
 ## 📋 License
 
