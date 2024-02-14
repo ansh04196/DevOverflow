@@ -263,7 +263,7 @@ After following all the instructions above, we'll want to create a new webhook o
 Download or clone this repo by using the link below:
 
 ```bash
-git clone https://github.com/ladunjexa/nextjs14-devoverflow.git
+git clone https://github.com/ansh04196/DevOverflow.git
 ```
 
 **Step 2:**
